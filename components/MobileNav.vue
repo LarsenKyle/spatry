@@ -38,16 +38,6 @@ export default {
 </script>
 
 <style lang="scss">
-.mobile {
-  background-color: $primary;
-  position: fixed;
-  width: 100vw;
-  display: flex;
-  bottom: 0vh;
-  justify-content: space-around;
-  color: white;
-  font-size: 1.3rem;
-}
 #contact-icon,
 #about-icon,
 #work-icon,

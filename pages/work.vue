@@ -140,15 +140,7 @@ export default {
     'heading main-nav'
     'footer desc';
 }
-@media only screen and (min-width: 1450px) {
-  .grid-container {
-    .footer {
-      .img-move {
-        bottom: 26vh;
-      }
-    }
-  }
-}
+
 @media only screen and (max-width: 1000px) {
   .grid-container {
     display: none;

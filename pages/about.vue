@@ -10,7 +10,7 @@
       </div>
       <div class="bottom-left">
         <img class="galaxy" src="../assets/galaxy.svg" alt />
-        <img class="about-img" src="../assets/about.png" alt="Profile shot in Utah mountains" />
+        <img class="about-img" src="../static/about.png" alt="Profile shot in Utah mountains" />
       </div>
       <div class="bottom-right">
         <img class="explode" src="../assets/explode.svg" alt />

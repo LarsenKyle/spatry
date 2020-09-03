@@ -19,6 +19,10 @@ export default {
 }
 </script>
 <style lang="scss">
+a {
+  color: $primary;
+  text-decoration: none;
+}
 .mobile {
   display: none;
 }
@@ -49,7 +53,14 @@ export default {
     top: 25vh;
   }
   .mobile {
+    background-color: $primary;
+    position: fixed;
+    width: 100vw;
     display: flex;
+    bottom: 0vh;
+    justify-content: space-around;
+    color: white;
+    font-size: 1.3rem;
   }
 }
 </style>

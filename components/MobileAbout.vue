@@ -1,7 +1,7 @@
 <template>
   <div class="mo-about">
     <div class="mainImg mt-5">
-      <img src="../assets/about.png" alt />
+      <img src="../static/about.png" alt />
     </div>
     <div class="words">
       <h3>Front-End Developer</h3>

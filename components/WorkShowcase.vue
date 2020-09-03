@@ -25,7 +25,7 @@
       <img
         v-if="work.title === 'Schooley and Sons Tackle'"
         class="img-move"
-        src="../assets/schooley.png"
+        src="../static/schooley.png"
         alt
       />
     </div>

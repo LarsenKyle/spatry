@@ -10,7 +10,7 @@
       <img class="galaxy" src="../assets/explode.svg" alt />
     </div>
     <div class="bottom-right office">
-      <img class="out-img" src="../assets/hobbie.png" alt="Profile shot in Utah mountains" />
+      <img class="out-img" src="../static/hobbie.png" alt="Profile shot in Utah mountains" />
       <img class="explode" src="../assets/galaxy.svg" alt />
 
       <h2 class="about-header">Out of Office</h2>
